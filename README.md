@@ -2,7 +2,8 @@
 Performing analysis on Kickstarter data to uncover trends
 ---
 
-Attached is the Crowdfunding Analysis folder containing Module 1 Challenge folder
+Attached is the Crowdfunding Analysis folder containing Module 1 Challenge folder.
+
 Under the Module 1 Challenge file are: 
 
    * Module 1 Challenge.xlsx          - included in the excell file are analysis based on data obtained
